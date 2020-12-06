@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <main>
+    <h1>{{ .Title }}</h1>
+
+    <div class="list-item-container">
+      {{ range $.Paginator.Pages.ByPublishDate.Reverse }}
+        <div class="list-item" onclick="window.location.pathname = '{{ .RelPermalink }}'">
+          <img src="{{ .RelPermalink }}/{{ .Param "photo" }}" />
+          <h2>{{ .Title }}</h2>
+          <div class="author">By {{ .Param "author" }}</div>
+          <p>&quot;{{ .Summary }}&quot;</p>
+        </div>
+      {{ end }}
+    </div>
+  </main>
+{{ end }}

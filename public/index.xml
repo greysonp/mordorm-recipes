@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mordorm Recipes</title>
+    <link>https://recipes.mordorm.com/</link>
+    <description>Recent content on Mordorm Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Nov 2020 15:58:53 -0500</lastBuildDate><atom:link href="https://recipes.mordorm.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crepes (Vegan Friendly)</title>
+      <link>https://recipes.mordorm.com/crepes-vegan-friendly/</link>
+      <pubDate>Sun, 29 Nov 2020 15:58:53 -0500</pubDate>
+      
+      <guid>https://recipes.mordorm.com/crepes-vegan-friendly/</guid>
+      <description>Thin and delicious.</description>
+    </item>
+    
+    <item>
+      <title>Baked Apple Cider Donuts</title>
+      <link>https://recipes.mordorm.com/baked-apple-cider-donuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.mordorm.com/baked-apple-cider-donuts/</guid>
+      <description>Soft, cakey, spiced donuts.</description>
+    </item>
+    
+    <item>
+      <title>Basic Hummus</title>
+      <link>https://recipes.mordorm.com/basic-hummus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.mordorm.com/basic-hummus/</guid>
+      <description>Simple and smooth.</description>
+    </item>
+    
+    <item>
+      <title>Better Hummus</title>
+      <link>https://recipes.mordorm.com/better-hummus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.mordorm.com/better-hummus/</guid>
+      <description>Or so says Hiram.</description>
+    </item>
+    
+    <item>
+      <title>Chai Shortbread Cookies</title>
+      <link>https://recipes.mordorm.com/chai-shortbread-cookies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.mordorm.com/chai-shortbread-cookies/</guid>
+      <description>Simple and spiced.</description>
+    </item>
+    
+    <item>
+      <title>Chocolate Chip Banana Bread</title>
+      <link>https://recipes.mordorm.com/chocolate-chip-banana-bread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.mordorm.com/chocolate-chip-banana-bread/</guid>
+      <description>Wonderfully dense and moist.</description>
+    </item>
+    
+    <item>
+      <title>Chocolate Chip Cookies</title>
+      <link>https://recipes.mordorm.com/chocolate-chip-cookies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.mordorm.com/chocolate-chip-cookies/</guid>
+      <description>Thin and chewy.</description>
+    </item>
+    
+    <item>
+      <title>Pita Bread</title>
+      <link>https://recipes.mordorm.com/pita-bread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.mordorm.com/pita-bread/</guid>
+      <description>Pocket full of sunshine.</description>
+    </item>
+    
+    <item>
+      <title>Strawberry Macarons</title>
+      <link>https://recipes.mordorm.com/strawberry-macarons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.mordorm.com/strawberry-macarons/</guid>
+      <description>Simple and delicious with a nice chew.</description>
+    </item>
+    
+  </channel>
+</rss>

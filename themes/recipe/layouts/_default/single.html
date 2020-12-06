@@ -1,0 +1,13 @@
+{{ define "main" }}
+    <main>
+        <header>
+            <h1>{{ .Title }}</h1>
+            <div class="author">↳ Written by {{ $.Param "author" }}</div>
+            <img src="{{ $.Param "photo" }}" />
+        </header>
+
+        <section class="recipe">
+            {{ .Content }}
+        </section>
+    </main>
+{{ end }}
