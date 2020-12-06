@@ -7,10 +7,10 @@ photo: "header.jpg"
 
 # Ingredients
 
-- 1 cup butter
+- 1 cup butter  
   _At room temperature_
 - 100 g sugar
-- 1 tsp vanilla bean paste
+- 1 tsp vanilla bean paste  
   _Or 1.5 tsp pure vanilla extract_
 - 285 g all-purpose flour
 - 1/2 tsp salt
