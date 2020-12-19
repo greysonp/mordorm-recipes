@@ -16,6 +16,7 @@ photo: "header.jpg"
 
 ## Wet
 - 2/3 cup canola oil  
+- 3 Tbs canola oil  
   _Same amount of peanut butter also works if you want to mix it up_
 - 2/3 cup granulated sugar  
   _Coarse sugar really doesn't work here -- you want something fine-grained_
