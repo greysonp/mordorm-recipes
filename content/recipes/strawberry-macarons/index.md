@@ -3,6 +3,7 @@ title: "Strawberry Macarons"
 author: Greyson Parrelli
 summary: "Simple and delicious with a nice chew."
 photo: "header.jpg"
+gallery: ["img-01.gif", "img-02.gif", "img-03.gif", "img-04.jpg"]
 ---
 
 # Ingredients
