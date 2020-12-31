@@ -1,13 +1,23 @@
 {{ define "main" }}
-    <main>
-        <header>
-            <h1>{{ .Title }}</h1>
-            <div class="author">↳ Written by {{ $.Param "author" }}</div>
-            <img src="{{ $.Param "photo" }}" />
-        </header>
+  <main>
+    <header>
+      <h1>{{ .Title }}</h1>
+      <div class="author">↳ Written by {{ $.Param "author" }}</div>
+      <img src="{{ $.Param "photo" }}" />
+    </header>
 
-        <section class="recipe">
-            {{ .Content }}
-        </section>
-    </main>
+    {{ if $.Param "gallery" }}
+      <section>
+        <ol class="gallery">
+          {{ range $.Param "gallery" }}
+            <li><img src="{{ . }}"></li>
+          {{ end }}
+        </ol>
+      </section>
+    {{ end }}
+
+    <section class="recipe">
+      {{ .Content }}
+    </section>
+  </main>
 {{ end }}
