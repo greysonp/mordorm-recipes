@@ -3,6 +3,7 @@ title: "Pita Bread"
 author: Greyson Parrelli
 summary: "Pocket full of sunshine."
 photo: "header.jpg"
+gallery: ["img-01.jpg", "img-02.jpg", "img-03.jpg"]
 ---
 
 # Ingredients
