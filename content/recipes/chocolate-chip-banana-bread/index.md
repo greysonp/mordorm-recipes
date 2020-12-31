@@ -3,6 +3,7 @@ title: "Chocolate Chip Banana Bread"
 author: Greyson Parrelli
 summary: "Wonderfully dense and moist."
 photo: "header.jpg"
+gallery: ["img-01.jpg", "img-02.jpg"]
 ---
 
 # Ingredients
