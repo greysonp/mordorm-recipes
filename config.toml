@@ -2,6 +2,7 @@ baseURL = "https://recipes.mordorm.com/"
 languageCode = "en-us"
 title = "Mordorm Recipes"
 theme = "recipe"
+paginate = 100
 
 
 [permalinks]
