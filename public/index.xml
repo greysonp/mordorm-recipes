@@ -6,7 +6,11 @@
     <description>Recent content on Mordorm Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Nov 2020 15:58:53 -0500</lastBuildDate><atom:link href="https://recipes.mordorm.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Nov 2020 15:58:53 -0500</lastBuildDate>
+    
+	<atom:link href="https://recipes.mordorm.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Crepes (Vegan Friendly)</title>
       <link>https://recipes.mordorm.com/crepes-vegan-friendly/</link>
@@ -77,6 +81,15 @@
       
       <guid>https://recipes.mordorm.com/chocolate-chip-cookies/</guid>
       <description>Thin and chewy.</description>
+    </item>
+    
+    <item>
+      <title>Pancakes</title>
+      <link>https://recipes.mordorm.com/pancakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recipes.mordorm.com/pancakes/</guid>
+      <description>Light and fluffy.</description>
     </item>
     
     <item>
