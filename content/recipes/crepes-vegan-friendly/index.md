@@ -16,7 +16,7 @@ gallery: ["img-01.jpg", "img-02.jpg", "img-03.jpg", "img-04.jpg", "img-05.jpg", 
 - 1 tsp vanilla
 - 2 Tbs flax meal  
   _Or 2 eggs for non-vegan option_
-- 1 Tbs butter
+- 1 Tbs butter  
   _Vegan or non-vegan_
 
 
