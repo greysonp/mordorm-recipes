@@ -1,76 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://recipes.mordorm.com/crepes-vegan-friendly/</loc>
     <lastmod>2020-11-29T15:58:53-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/</loc>
     <lastmod>2020-11-29T15:58:53-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/recipes/</loc>
     <lastmod>2020-11-29T15:58:53-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/a-nostalgic-drink/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/baked-apple-cider-donuts/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/basic-hummus/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/better-hummus/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/brownies/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/chai-shortbread-cookies/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/chocolate-chip-banana-bread/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/chocolate-chip-cookies/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/pancakes/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/pita-bread/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/pretzels/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/strawberry-macarons/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://recipes.mordorm.com/tags/</loc>
   </url>
-  
 </urlset>

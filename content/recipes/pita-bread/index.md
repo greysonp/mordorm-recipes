@@ -19,7 +19,7 @@ gallery: ["img-01.jpg", "img-02.jpg", "img-03.jpg"]
 # Instructions
 
 1. In a large bowl, combine the yeast and sugar with 1 cup of lukewarm water. Whisk to dissolve.
-1. Add in the whole-wheat flour and 30g of the all-purpose flour. Whisk to dissolve.
+1. Add in 65g of the flour. Whisk to dissolve.
  
 > Let rest for 15 minutes.  
 > _Until frothy and bubbly_
